@@ -15,6 +15,7 @@ def enlarge(n):
 
 
 if __name__ == "__main__":
+
     # only run the code below IF this script is invoked from the command-line
     # not if it is imported from another script
     print("HELLO")
